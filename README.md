@@ -8,7 +8,7 @@ I'm currently working on an app called Collabtime. Collabtime is a task and proj
 * [Collabtime Backend Repo](https://github.com/gastelumdev/collabtime-ts-backend)
 * Visit my website [here](https://gastelumdev.onrender.com) for access to the application.
 
-I am also easing my way into becoming an open-source contributor.
+I am also actively learning how to contribute to open-source projects.
 
 Feel free to reach me on  ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [Linkedin](https://www.linkedin.com/in/omar-gastelum-8474b7117/).
 
