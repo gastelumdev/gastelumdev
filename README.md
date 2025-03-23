@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Omar, I am a self-taught Software Engineer with a bachelor's degree in Computer Science.
-
+My name is Omar, I am a Software Engineer working in the controls industry.
+<!--
 I'm currently working on an app called Collabtime. Collabtime is a task and project management app built with React, Redux, NodeJS, Express, WebSockets, and MongoDB.
 
 * [Collabtime Frontend Repo](https://github.com/gastelumdev/collabtime-vite)
@@ -12,7 +12,7 @@ I am also actively learning how to contribute to open-source projects.
 
 Feel free to reach me on  ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [Linkedin](https://www.linkedin.com/in/omar-gastelum-8474b7117/).
 
-<!--
+
 **gastelumdev/gastelumdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
